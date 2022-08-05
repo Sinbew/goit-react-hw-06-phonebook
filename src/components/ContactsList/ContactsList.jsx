@@ -1,4 +1,3 @@
-import PropTypes from 'prop-types';
 import { ContactsListItem } from './ContactsListItem';
 import styles from './ContactsList.module.css';
 import { useSelector, useDispatch } from 'react-redux';
